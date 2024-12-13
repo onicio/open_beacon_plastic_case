@@ -21,6 +21,7 @@ Signal Interference: The material used in the plastic cases introduces only mino
 Convenient Attachment: The plastic cases feature a plastic clip that allows users to conveniently attach the cases to their clothes. Ideally, the attachment should be at chest height to ensure accurate sensor readings.
 
 Deployment
+
 The plastic cases have been successfully deployed in both adults and children. Their effectiveness has been verified through field deployments and usage in various scenarios.
 
 Acknowledgments
