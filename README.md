@@ -1,12 +1,15 @@
 # Open Beacon Plastic Cases
 
 Project Overview
+
 The Open Beacon Plastic Cases project was designed by Additive Manufactory Factory Lab, University of Zurich, in partnership with the Center of Child Well-being and Development, University of Zurich. The project aims to provide protective cases for open beacon sensors used in field deployments.
 
 Purpose
+
 The plastic cases are specifically designed to safeguard open beacon sensors during their deployment in various field scenarios. These cases ensure the protection of the sensors from environmental elements, such as water and dust, while maintaining their functionality.
 
 Features
+
 Water and Dust Resistance: The plastic cases are constructed to be water-resistant and dust-resistant, safeguarding the open beacon sensors in different field conditions.
 
 Reliability: The plastic cases have been successfully utilized in several field pilots, demonstrating their reliability and durability in real-world conditions.
@@ -21,18 +24,24 @@ Deployment
 The plastic cases have been successfully deployed in both adults and children. Their effectiveness has been verified through field deployments and usage in various scenarios.
 
 Acknowledgments
+
 We would like to acknowledge the following contributors to the Open Beacon Plastic Cases project:
 
 Dr. Ciro Cattuto
+
 Dr. Onicio B. Leal Neto
+
 Sascha Weidner
+
 Lukas Lüchinger
 
 
 License
+
 This project is released under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license. For more details, please refer to the LICENSE file.
 
 Contact
+
 For more information or inquiries about the Open Beacon Plastic Cases project, please contact:
 
 onicio@gmail.com
